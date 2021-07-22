@@ -1,0 +1,37 @@
+Funcionario;Est.civil;Inst;Filhos;Anos;Meses;Regiao;Salario
+1;solteiro;1o Grau;NA;26;3;interior;4000
+2;casado;1o Grau;1;32;10;capital;4560
+3;casado;1o Grau;2;36;5;capital;5250
+4;solteiro;2o Grau;NA;20;10;outro;5730
+5;solteiro;1o Grau;NA;40;7;outro;6260
+6;casado;1o Grau;0;28;0;interior;6660
+7;solteiro;1o Grau;NA;41;0;interior;6860
+8;solteiro;1o Grau;NA;43;4;capital;7390
+9;casado;2o Grau;1;34;10;capital;7590
+10;solteiro;2o Grau;NA;23;6;outro;7440
+11;casado;2o Grau;2;33;6;interior;8120
+12;solteiro;1o Grau;NA;27;11;capital;8460
+13;solteiro;2o Grau;NA;37;5;outro;8740
+14;casado;1o Grau;3;44;2;outro;8950
+15;casado;2o Grau;0;30;5;interior;9130
+16;solteiro;2o Grau;NA;38;8;outro;9350
+17;casado;2o Grau;1;31;7;capital;9770
+18;casado;1o Grau;2;39;7;outro;9800
+19;solteiro;Superior;NA;25;8;interior;10530
+20;solteiro;2o Grau;NA;37;4;interior;10760
+21;casado;2o Grau;1;30;9;outro;11060
+22;solteiro;2o Grau;NA;34;2;capital;11590
+23;solteiro;1o Grau;NA;41;0;outro;12000
+24;casado;Superior;0;26;1;outro;12790
+25;casado;2o Grau;2;32;5;interior;13230
+26;casado;2o Grau;2;35;0;outro;13600
+27;solteiro;1o Grau;NA;46;7;outro;13850
+28;casado;2o Grau;0;29;8;interior;14690
+29;casado;2o Grau;5;40;6;interior;14710
+30;casado;2o Grau;2;35;10;capital;15990
+31;solteiro;Superior;NA;31;5;outro;16220
+32;casado;2o Grau;1;36;4;interior;16610
+33;casado;Superior;3;43;7;capital;17260
+34;solteiro;Superior;NA;33;7;capital;18750
+35;casado;2o Grau;2;48;11;capital;19400
+36;casado;Superior;3;42;2;interior;23300
